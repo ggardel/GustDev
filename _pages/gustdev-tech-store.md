@@ -15,5 +15,3 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-
-	<iframe src="http://astore.amazon.com/gustdev-20" width="90%" height="2000" frameborder="0" scrolling="no"></iframe>
