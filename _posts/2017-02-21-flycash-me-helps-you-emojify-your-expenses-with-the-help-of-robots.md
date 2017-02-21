@@ -10,6 +10,12 @@ layout: post
 permalink: >
   http://www.gustdev.com/flycash-me-helps-you-emojify-your-expenses-with-the-help-of-robots/
 published: true
+wpe_campaignid:
+  - "635"
+wpe_feed:
+  - http://feeds.feedblitz.com/domainME
+wpe_sourcepermalink:
+  - 'http://domain.me/flycash-me/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=domainme'
 ---
 <p>Imagine this: every month you’re slightly low on cash and even though you try ever so hard to keep track of where your money is going, it’s always disappearing before your very eyes. This is a problem a lot of people have, and there are <strong>numerous ways of keeping track of where your money is going</strong>, but have you considered perhaps chatting to a bot about it?</p>
 <p><a href="http://feeds.feedblitz.com/~/t/0/0/domainme/~https://flycash.me/">FlyCash.ME</a> is a service that <strong>allows you to keep track of all of your expenses and finances</strong> by simply allowing you to chat to a bot on Messenger about them. It’s like having a friend who wants to know where your money is but in a friendly way, not a creepy weird one.</p>

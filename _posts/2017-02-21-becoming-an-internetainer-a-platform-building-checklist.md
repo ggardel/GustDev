@@ -8,6 +8,12 @@ layout: post
 permalink: >
   http://www.gustdev.com/becoming-an-internetainer-a-platform-building-checklist/
 published: true
+wpe_campaignid:
+  - "635"
+wpe_feed:
+  - http://feeds.feedblitz.com/domainME
+wpe_sourcepermalink:
+  - 'http://domain.me/internetainers-platform-building/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=domainme'
 ---
 <p>We’ve talked a lot about creating a platform for your Internetaining needs in the first two articles in this series, and we believe that you now know why it’s a good idea to diversify and spread your new Internetaining empire outside the borders of YouTube, but there’s<strong> still one more thing we have to teach you</strong>, our dear aspiring YouTuber, and that is:</p>
 <p><b>How to make your own platform</b></p>
