@@ -13,7 +13,9 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-<h3 id="shortblurbid"><a href="http://www.medstartr.com/project/detail/1216" target="_blank">Educate and make it easier to access supplies for people dealing with Incontinence, Ostomy and Wound care problems.</a></h3>
+<h3></h3>
+<h3 id="shortblurbid"><a href="http://www.medstartr.com/project/detail/1216" target="_blank"><img class="aligncenter" src="http://i.imgur.com/jsu1il1.jpg?2" width="446" height="297" /></a></h3>
+<h3><a href="http://www.medstartr.com/project/detail/1216" target="_blank">Educate and make it easier to access supplies for people dealing with Incontinence, Ostomy and Wound care problems.</a></h3>
 &nbsp;
 <div id="tab_content12" class="tab_content">
 <h3><a href="http://www.medstartr.com/project/detail/1216" target="_blank">Donate Here</a></h3>
@@ -36,7 +38,9 @@ I know that this is not super creative or innovative, but it is a real problem
 [caption id="" align="alignright" width="393"]<img src="http://i.imgur.com/vMss0sZ.jpg" width="393" height="295" /> Gustavo Ferreira - Web Developer / Nurse (BSN) /Entrepreneur[/caption]
 
 <strong>Bio: </strong>I was born in Rio de Janeiro, Brazil. The beautiful city where I lived and worked as a Registered Nurse (BSN) until December of 2006 when I relocated to the United States. I studied JavaScript, HTML, and CSS while I was working in healthcare at night. During the day I was doing some freelance websites for friends and small business. I had the opportunity to improve my knowledge with Back-End programming during General Assembly Full Stack Web Development Immersive Program.
-<strong>Title:</strong> Web Developer, Nurse (BSN) and Entrepreneur</div>
+<strong>Title:</strong> Web Developer, Nurse (BSN) and Entrepreneur
+
+</div>
 <div class="tab_content"></div>
 <div class="tab_content"></div>
 <div class="tab_content"></div>
@@ -44,12 +48,12 @@ I know that this is not super creative or innovative, but it is a real problem
 <div class="tab_content">
 <h3><a href="http://www.medstartr.com/project/detail/1216" target="_blank">Donate Here</a></h3>
 <strong>About our solution:</strong>
-Design and build a website/app that will offer information, instructions how to use the product, videos, links to specialists, news related to the subject, blog to stimulate involvement of patient and caregivers to share their experience and access to purchase specific products fast with confidence and no harassment.</div>
-<div class="tab_content"><img class="alignnone size-full" src="http://i.imgur.com/jsu1il1.jpg?1" width="300" height="200" />
-<strong>Progress to date:</strong>
-I have suppliers, wireframe for the website based on user experience, DNS, links from specialists that will be used and access to a research about the subject with projection until 2020.
+Design and build a website/app that will offer information, instructions how to use the product, videos, links to specialists, news related to the subject, blog to stimulate involvement of patient and caregivers to share their experience and access to purchase specific products fast with confidence and no harassment.
 
 </div>
+<div class="tab_content"><img class="alignnone size-full" src="http://i.imgur.com/jsu1il1.jpg?1" width="300" height="200" />
+<strong>Progress to date:</strong>
+I have suppliers, wireframe for the website based on user experience, DNS, links from specialists that will be used and access to a research about the subject with projection until 2020.</div>
 <strong>The problem we solve:</strong>
 Incontinence, ostomy, and wound care are very complicated when many of the clients are in a wheelchair or in bed. Patients and Caregivers need to manage the time, caring and providing all their needs. Information and instruction are keys elements to avoid complications as infections, skin damage, and management of the inventory of supply. Transportation and communication can be a big issue when you have restrictions or are in urgency need.
 <img src="http://www.medstartr.com/uploads/images/projects/1216/solutionimg_58a5017dcee8f.jpg" />
