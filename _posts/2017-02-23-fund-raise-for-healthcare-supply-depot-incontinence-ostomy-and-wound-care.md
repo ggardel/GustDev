@@ -19,13 +19,19 @@ vortex_system_dislikes:
 &nbsp;
 <div id="tab_content12" class="tab_content">
 <h3><a href="http://www.medstartr.com/project/detail/1216" target="_blank">Donate Here</a></h3>
-<img class="aligncenter" src="http://i.imgur.com/7ICOX6q.png" width="407" height="407" />
-<h3><strong>About The Project</strong></h3>
-<strong>How we will use the funds raised</strong>
+&nbsp;
+<h3><strong><img class="alignright" src="http://i.imgur.com/7ICOX6q.png" width="401" height="401" /></strong><strong>About The Project
+</strong></h3>
+&nbsp;
+
+<strong>
+How we will use the funds raised</strong>
 
 The funds will be used to pay for the fees related to the generation of LLC, business licenses, hosting the website, and also for initiate a credit line and security deposit of different suppliers.
 
+</div>
 <strong>Thank You</strong>
+<div id="tab_content12" class="tab_content">
 
 I know that this is not super creative or innovative, but it is a real problem.  People dealing with incontinence, ostomy or wounds have a hard time managing care and supplies. The look that other people give when you are buying a package of diapers, the smell of a diabetic ulcer or colostomy bag could be overwhelming.  As well as having the knowledge and proper supplies to reduce further complications.  These situations could be avoided using tools such as a mobile app or website. Now imagine if transportation or mobility is an issue?  People that do not deal with these issues of incontinence, ostomy or wounds have no idea how hard it is. I am just asking for your help to build this tool that will facilitate the life of many people. Thank You!
 
@@ -47,22 +53,30 @@ I know that this is not super creative or innovative, but it is a real problem
 <div class="tab_content"></div>
 <div class="tab_content">
 <h3><a href="http://www.medstartr.com/project/detail/1216" target="_blank">Donate Here</a></h3>
-<strong>About our solution:</strong>
+&nbsp;
+
+<strong><img class="alignleft" src="http://i.imgur.com/jsu1il1.jpg?1" width="357" height="238" />About our solution:</strong>
 Design and build a website/app that will offer information, instructions how to use the product, videos, links to specialists, news related to the subject, blog to stimulate involvement of patient and caregivers to share their experience and access to purchase specific products fast with confidence and no harassment.
 
 </div>
-<div class="tab_content"><img class="alignnone size-full" src="http://i.imgur.com/jsu1il1.jpg?1" width="300" height="200" />
-<strong>Progress to date:</strong>
+<div class="tab_content">
+
+</div>
+<div class="tab_content"></div>
+<div class="tab_content"></div>
+<div class="tab_content"><strong>Progress to date:</strong>
 I have suppliers, wireframe for the website based on user experience, DNS, links from specialists that will be used and access to a research about the subject with projection until 2020.</div>
+<strong><img class="alignright" src="http://www.medstartr.com/uploads/images/projects/1216/solutionimg_58a5017dcee8f.jpg" width="402" height="262" /></strong>
+
 <strong>The problem we solve:</strong>
-Incontinence, ostomy, and wound care are very complicated when many of the clients are in a wheelchair or in bed. Patients and Caregivers need to manage the time, caring and providing all their needs. Information and instruction are keys elements to avoid complications as infections, skin damage, and management of the inventory of supply. Transportation and communication can be a big issue when you have restrictions or are in urgency need.
-<img src="http://www.medstartr.com/uploads/images/projects/1216/solutionimg_58a5017dcee8f.jpg" />
+
+Incontinence, ostomy, and wound care are very complicated when many of the clients are in a wheelchair or in bed. Pa
+tients and Caregivers need to manage the time, caring and providing all their needs. Information and instruction are keys elements to avoid complications as infections, skin damage, and management of the inventory of supply. Transportation and communication can be a big issue when you have restrictions or are in urgency need.
 
 &nbsp;
 
-Help Us to build this project visit:
+<strong>Help Us to build this project visit:</strong>
 
-http://www.medstartr.com/project/detail/1216
-
-<a href="http://www.medstartr.com/project/detail/1216" target="_blank">Donate</a>
+<a href="http://www.medstartr.com/project/detail/1216" target="_blank">http://www.medstartr.com/project/detail/1216</a>
+<h4><a href="http://www.medstartr.com/project/detail/1216" target="_blank">Donate</a></h4>
 <div class="tab_content"></div>
