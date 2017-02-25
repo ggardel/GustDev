@@ -7,5 +7,7 @@ Visit www.gustdev.com
 
  <img src="http://i.imgur.com/jiaLC2k.png" title="source: imgur.com" />
  
+
+This is my new Logo. GustDev Digital, LLC.
  
 <img src="http://i.imgur.com/rANYKKI.png" title="source: imgur.com" />
