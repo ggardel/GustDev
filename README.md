@@ -22,6 +22,8 @@ This is my new Logo. GustDev Digital, LLC.
 - Advertise 
 - Subscription
 - Newsletter for Subscribers
+- Social Media Share
+- Like Button/counter
 - Blog
 - Portfolio
 - Professional Services
