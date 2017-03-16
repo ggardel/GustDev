@@ -30,3 +30,5 @@ This is my new Logo. GustDev Digital, LLC.
 - Links to my GitHub, CodePen, Resume, LinkedIn and more
 - Contact
 - About
+
+Visit the website and share with your friends.....
