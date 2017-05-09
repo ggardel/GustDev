@@ -39,12 +39,13 @@ vortex_system_dislikes:
 	<h3><a href="http://www.guhit.pro/portfolio/" target="_self">Projects</a></h3>		
 			<p>All my projects with image, details and link to visit.</p>
 <a href="http://www.guhit.pro/portfolio/" target="_self">Click Here</a>		 
-				<a href="https://drive.google.com/file/d/0B8BGZxI5RTzIQUhSa0dvQU95YWM/view?usp=sharing" target="_blank" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/I9PAUwu-Imgur-1024x683-landscape.png" alt="" itemprop="image"  />
+				<a href="https://drive.google.com/file/d/0B8BGZxI5RTzIVnd0Y3NjQWVBYUU/view?usp=sharing" target="_blank" itemprop="url">
+				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/I9PAUwu-Imgur-300x200-landscape.png" alt="" itemprop="image"  />
 				</a>
-	<h3><a href="https://drive.google.com/file/d/0B8BGZxI5RTzIQUhSa0dvQU95YWM/view?usp=sharing" target="_blank">Resume</a></h3>		
-			<p>Would you like to see or download my Resume?</p>
-<a href="https://drive.google.com/file/d/0B8BGZxI5RTzIQUhSa0dvQU95YWM/view?usp=sharing" target="_blank">Click Here</a>		 
+	<h3><a href="https://drive.google.com/file/d/0B8BGZxI5RTzIVnd0Y3NjQWVBYUU/view?usp=sharing" target="_blank">Resume</a></h3>		
+			<p>For my Web Developer Resume</p>
+<p>(<em>HIT Resume click</em> <a href="https://drive.google.com/file/d/0B8BGZxI5RTzIYXpCamU1RzNTZ0k/view?usp=sharing">Here</a>)</p>
+<a href="https://drive.google.com/file/d/0B8BGZxI5RTzIVnd0Y3NjQWVBYUU/view?usp=sharing" target="_blank">Click Here</a>		 
 				<a href="http://www.guhit.pro/services/" target="_self" itemprop="url">
 				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/op2eq5g-zkw-william-iven-300x199.jpg" alt="" itemprop="image"  />
 				</a>
