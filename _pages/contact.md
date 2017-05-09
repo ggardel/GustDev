@@ -1,11 +1,11 @@
 ---
 ID: 19
 post_title: Contact
-author: GustDev
+author: GuHIT
 post_date: 2017-01-29 16:25:51
 post_excerpt: ""
 layout: page
-permalink: http://www.gustdev.com/contact/
+permalink: http://www.guhit.pro/contact/
 published: true
 wpnux_page:
   - contact
