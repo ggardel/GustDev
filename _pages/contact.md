@@ -17,14 +17,10 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-&nbsp;
-<h4 style="text-align: center;"></h4>
 
+	<h4 style="text-align: center;"></h4>
 <hr />
-
-[caption id="attachment_335" align="aligncenter" width="1024"]<a href="http://www.gustdev.com/wp-content/uploads/2017/01/MEspzmh-Imgur.png"><img src="http://www.gustdev.com/wp-content/uploads/2017/01/MEspzmh-Imgur.png" alt="Gustavo Contact" width="1024" height="682" /></a> Gustavo Ferreira - Full Stack Web Developer[/caption]
-
+<p>[caption id="attachment_335" align="aligncenter" width="1024"]<a href="http://www.gustdev.com/wp-content/uploads/2017/01/MEspzmh-Imgur.png"><img src="http://www.gustdev.com/wp-content/uploads/2017/01/MEspzmh-Imgur.png" alt="Gustavo Contact" width="1024" height="682" /></a> Gustavo Ferreira - Full Stack Web Developer[/caption]</p>
 <hr />
-
-&nbsp;
-<p style="text-align: center;">[ninja_forms id=1]</p>
+<p>&nbsp;</p>
+	<p style="text-align: center;">[ninja_forms id=1]</p>
