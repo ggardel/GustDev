@@ -33,24 +33,24 @@ vortex_system_dislikes:
 			<p>Professional Experience and Networking.</p>
 <p>&nbsp;</p>
 <a href="https://www.linkedin.com/in/gustavogardel" target="_blank">Visit</a>		 
-				<a href="http://www.gustdev.com/portfolio/" target="_self" itemprop="url">
-				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/hpjsku2uysu-carlos-muza-1024x729.jpg" alt="" itemprop="image"  />
+				<a href="http://www.guhit.pro/portfolio/" target="_self" itemprop="url">
+				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/hpjsku2uysu-carlos-muza-300x214.jpg" alt="" itemprop="image"  />
 				</a>
-	<h3><a href="http://www.gustdev.com/portfolio/" target="_self">Projects</a></h3>		
+	<h3><a href="http://www.guhit.pro/portfolio/" target="_self">Projects</a></h3>		
 			<p>All my projects with image, details and link to visit.</p>
-<a href="http://www.gustdev.com/portfolio/" target="_self">Click Here</a>		 
+<a href="http://www.guhit.pro/portfolio/" target="_self">Click Here</a>		 
 				<a href="https://drive.google.com/file/d/0B8BGZxI5RTzIQUhSa0dvQU95YWM/view?usp=sharing" target="_blank" itemprop="url">
 				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/I9PAUwu-Imgur-1024x683-landscape.png" alt="" itemprop="image"  />
 				</a>
 	<h3><a href="https://drive.google.com/file/d/0B8BGZxI5RTzIQUhSa0dvQU95YWM/view?usp=sharing" target="_blank">Resume</a></h3>		
 			<p>Would you like to see or download my Resume?</p>
 <a href="https://drive.google.com/file/d/0B8BGZxI5RTzIQUhSa0dvQU95YWM/view?usp=sharing" target="_blank">Click Here</a>		 
-				<a href="http://www.gustdev.com/services/" target="_self" itemprop="url">
-				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/op2eq5g-zkw-william-iven-1024x680.jpg" alt="" itemprop="image"  />
+				<a href="http://www.guhit.pro/services/" target="_self" itemprop="url">
+				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/op2eq5g-zkw-william-iven-300x199.jpg" alt="" itemprop="image"  />
 				</a>
-	<h3><a href="http://www.gustdev.com/services/" target="_self">Freelance</a></h3>		
+	<h3><a href="http://www.guhit.pro/services/" target="_self">Freelance</a></h3>		
 			<p>Do you need a Website? Front End, Full Stack, WordPress...</p>
-<a href="http://www.gustdev.com/services/" target="_self">Click Here</a>		 
+<a href="http://www.guhit.pro/services/" target="_self">Click Here</a>		 
 				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/z3ownetsdnq-avi-richards-1.jpg" alt="z3ownetsdnq-avi-richards" itemprop="image"  />
 	<h3 style="text-align: center;"> WEB DEVELOPER</h3>
 <p style="text-align: left;">I am a Web Developer graduated from General Assembly - Downtown Los Angeles with diversified professional experience and enormous desire to learn, improve and problem-solving. Connecting my skills acquired from my background as Registered Nurse (B.S.N.) such as critical thinking, team player and decision making to my skills in technology.</p>
@@ -59,14 +59,14 @@ vortex_system_dislikes:
 <p>&nbsp;</p>
 <h6 style="padding-left: 30px; text-align: center;">"Designing your website navigation is like laying the foundation for your house. Failure to plan your foundation properly could put your building at risk of collapse, regardless of how nice it looks."</h6>
 </blockquote>
-		<h2><a href="http://www.guhit.pro/gustdev-tech-store/" target="_self">Visit GuHITech Store</a></h2>		
+		<h2><a href="http://www.guhit.pro/guhit-tech-store/" target="_self">Visit GuHITech Store</a></h2>		
 			<p>All Equipment, accessories, and books to improve your Web Developer career and skills. </p>
 <p>&nbsp;</p>
-<a href="http://www.guhit.pro/gustdev-tech-store/" target="_self">Click Here</a>		 
-				<a href="http://www.guhit.pro/gustdev-tech-store/" target="_self" itemprop="url">
+<a href="http://www.guhit.pro/guhit-tech-store/" target="_self">Click Here</a>		 
+				<a href="http://www.guhit.pro/guhit-tech-store/" target="_self" itemprop="url">
 				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/uI4gyYi-Imgur-landscape.jpg" alt="" itemprop="image"  />
 				</a>
-		<h2><a href="http://www.gustdev.com/portfolio/" target="_self">Portfolio</a></h2>		
+		<h2><a href="http://www.guhit.pro/portfolio/" target="_self">Portfolio</a></h2>		
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2016-09-30-at-14.53.26-1024x640.png" alt="My first Portfolio" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2016-09-21-at-00.32.07-1024x640.png" alt="Doctor Homepage" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2016-09-14-at-20.36.00-1024x640.png" alt="inclusion home" />			
@@ -81,7 +81,7 @@ vortex_system_dislikes:
 </svg>
 </a>
 		<h2><a href="http://gem.godaddy.com/signups/414828/join" target="_self">Don't forget to visit GuHIT Blog and Subscribe... </a></h2>		
-			<p><em>Visit <a href="http://www.gustdev.com/blog/">GuHIT Blog</a> and <a href="http://gem.godaddy.com/signups/414828/join">Subscribe</a> to receive an email with great articles, news, and freebies...</em></p>
+			<p><em>Visit <a href="http://www.guhit.pro/blog/">GuHIT Blog</a> and <a href="http://gem.godaddy.com/signups/414828/join">Subscribe</a> to receive an email with great articles, news, and freebies...</em></p>
 			<a href="http://gem.godaddy.com/signups/414828/join" target="_self" role="button">
 						Subscribe
 					</a>
@@ -90,6 +90,6 @@ vortex_system_dislikes:
 				</a>
 		<h2>More about me...</h2>
 		<p><em>Would you like to know more about me,  my skills and education so you need to check this out!</em></p>
-			<a href="http://www.gustdev.com/about/" target="_self" role="button">
+			<a href="http://www.guhit.pro/about/" target="_self" role="button">
 						Click Here
 					</a>
