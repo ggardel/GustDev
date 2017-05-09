@@ -122,6 +122,6 @@ General Assembly provides the necessary technologies (ie.JavaScript, jQuery, MEA
 <p style="text-align: center;">ALISON Certificate 591-5772399</p>
 		<h3>About my Projects...</h3>
 		<p><em>Now is time to go check it out my projects!   Front-End, Full-Stack, JavaScript, Ruby and more...</em></p>
-			<a href="http://www.gustdev.com/portfolio/" target="_self" role="button">
+			<a href="http://www.guhit.pro/portfolio/" target="_self" role="button">
 						Portfolio
 					</a>
