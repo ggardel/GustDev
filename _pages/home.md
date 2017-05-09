@@ -64,7 +64,7 @@ vortex_system_dislikes:
 <p>&nbsp;</p>
 <a href="http://www.guhit.pro/gustdev-tech-store/" target="_self">Click Here</a>		 
 				<a href="http://www.guhit.pro/gustdev-tech-store/" target="_self" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/uI4gyYi-Imgur-150x150-landscape.jpg" alt="" itemprop="image"  />
+				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/uI4gyYi-Imgur-landscape.jpg" alt="" itemprop="image"  />
 				</a>
 		<h2><a href="http://www.gustdev.com/portfolio/" target="_self">Portfolio</a></h2>		
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2016-09-30-at-14.53.26-1024x640.png" alt="My first Portfolio" />			
@@ -86,7 +86,7 @@ vortex_system_dislikes:
 						Subscribe
 					</a>
 				<a href="http://gem.godaddy.com/signups/414828/join" target="_self" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/portfolio_quarto1-150x150.jpeg" alt="" itemprop="image"  />
+				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/portfolio_quarto1-1024x768.jpeg" alt="" itemprop="image"  />
 				</a>
 		<h2>More about me...</h2>
 		<p><em>Would you like to know more about me,  my skills and education so you need to check this out!</em></p>
