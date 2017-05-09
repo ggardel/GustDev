@@ -1,11 +1,11 @@
 ---
 ID: 160
 post_title: Portfolio
-author: GustDev
+author: GuHIT
 post_date: 2017-01-29 16:25:51
 post_excerpt: ""
 layout: page
-permalink: http://www.gustdev.com/portfolio/
+permalink: http://www.guhit.pro/portfolio/
 published: true
 wpnux_page:
   - portfolio
@@ -21,18 +21,18 @@ vortex_system_user_1:
 
 	<h3>Front End - AngularJS</h3>
 <p>&nbsp;</p>
-<h1 style="text-align: center;"><a href="https://ggardel.github.io" target="_blank">PORTFOLIO</a></h1>
+<h1 style="text-align: center;"><a href="https://ggardel.github.io" target="_blank" rel="noopener noreferrer">PORTFOLIO</a></h1>
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2016-09-30-at-14.53.26.png" alt="My first Portfolio" /><a href="https://ggardel.github.io" target="_blank"></a>			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-14.14.41.png" alt="Portfolio About" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-14.15.12.png" alt="Portfolio Skills" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-14.15.49.png" alt="Portfolio Eduction" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-14.16.12.png" alt="Portfolio Projects" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-14.16.31.png" alt="Portfolio Contact" />			
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="previous" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M398.572,104.287L246.857,256.001l151.715,151.714c3.617,3.618,5.428,7.904,5.428,12.856c0,4.953-1.811,9.238-5.428,12.857 l-47.428,47.428c-3.619,3.619-7.904,5.428-12.857,5.428s-9.238-1.809-12.857-5.428l-212-212c-3.619-3.618-5.428-7.904-5.428-12.856 c0-4.953,1.81-9.238,5.428-12.857l212-212c3.619-3.618,7.904-5.428,12.857-5.428s9.238,1.81,12.857,5.428l47.428,47.429 C402.189,82.19,404,86.476,404,91.428c0,4.953-1.811,9.238-5.428,12.857V104.287z"/>
 </svg>
 </a>
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="next" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M113.428,407.713l151.715-151.714L113.428,104.285c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857 l47.428-47.428c3.619-3.619,7.904-5.428,12.857-5.428s9.238,1.809,12.857,5.428l212,212c3.619,3.618,5.429,7.904,5.429,12.856 c0,4.953-1.81,9.238-5.429,12.857l-212,212c-3.619,3.618-7.904,5.428-12.857,5.428s-9.238-1.81-12.857-5.428l-47.428-47.429 c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857V407.713z"/>
 </svg>
 </a>
@@ -48,11 +48,11 @@ vortex_system_user_1:
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2016-09-21-at-00.32.07.png" alt="Doctor Homepage" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-13.24.07.png" alt="Doctor Homepage" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-13.25.51.png" alt="Doctor user" />			
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="previous" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M398.572,104.287L246.857,256.001l151.715,151.714c3.617,3.618,5.428,7.904,5.428,12.856c0,4.953-1.811,9.238-5.428,12.857 l-47.428,47.428c-3.619,3.619-7.904,5.428-12.857,5.428s-9.238-1.809-12.857-5.428l-212-212c-3.619-3.618-5.428-7.904-5.428-12.856 c0-4.953,1.81-9.238,5.428-12.857l212-212c3.619-3.618,7.904-5.428,12.857-5.428s9.238,1.81,12.857,5.428l47.428,47.429 C402.189,82.19,404,86.476,404,91.428c0,4.953-1.811,9.238-5.428,12.857V104.287z"/>
 </svg>
 </a>
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="next" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M113.428,407.713l151.715-151.714L113.428,104.285c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857 l47.428-47.428c3.619-3.619,7.904-5.428,12.857-5.428s9.238,1.809,12.857,5.428l212,212c3.619,3.618,5.429,7.904,5.429,12.856 c0,4.953-1.81,9.238-5.429,12.857l-212,212c-3.619,3.618-7.904,5.428-12.857,5.428s-9.238-1.81-12.857-5.428l-47.428-47.429 c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857V407.713z"/>
 </svg>
 </a>
@@ -69,11 +69,11 @@ vortex_system_user_1:
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-15.05.48.png" alt="Inclusion Login" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-22-at-15.54.04.png" alt="Inclusion update" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-15.04.46.png" alt="Inclusion profile" />			
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="previous" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M398.572,104.287L246.857,256.001l151.715,151.714c3.617,3.618,5.428,7.904,5.428,12.856c0,4.953-1.811,9.238-5.428,12.857 l-47.428,47.428c-3.619,3.619-7.904,5.428-12.857,5.428s-9.238-1.809-12.857-5.428l-212-212c-3.619-3.618-5.428-7.904-5.428-12.856 c0-4.953,1.81-9.238,5.428-12.857l212-212c3.619-3.618,7.904-5.428,12.857-5.428s9.238,1.81,12.857,5.428l47.428,47.429 C402.189,82.19,404,86.476,404,91.428c0,4.953-1.811,9.238-5.428,12.857V104.287z"/>
 </svg>
 </a>
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="next" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M113.428,407.713l151.715-151.714L113.428,104.285c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857 l47.428-47.428c3.619-3.619,7.904-5.428,12.857-5.428s9.238,1.809,12.857,5.428l212,212c3.619,3.618,5.429,7.904,5.429,12.856 c0,4.953-1.81,9.238-5.429,12.857l-212,212c-3.619,3.618-7.904,5.428-12.857,5.428s-9.238-1.81-12.857-5.428l-47.428-47.429 c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857V407.713z"/>
 </svg>
 </a>
@@ -90,11 +90,11 @@ vortex_system_user_1:
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-22-at-17.44.17.png" alt="Nadopet login" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-22-at-17.45.32-1.png" alt="Nadopet profile" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-15.12.55.png" alt="Nadopet edit" />			
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="previous" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M398.572,104.287L246.857,256.001l151.715,151.714c3.617,3.618,5.428,7.904,5.428,12.856c0,4.953-1.811,9.238-5.428,12.857 l-47.428,47.428c-3.619,3.619-7.904,5.428-12.857,5.428s-9.238-1.809-12.857-5.428l-212-212c-3.619-3.618-5.428-7.904-5.428-12.856 c0-4.953,1.81-9.238,5.428-12.857l212-212c3.619-3.618,7.904-5.428,12.857-5.428s9.238,1.81,12.857,5.428l47.428,47.429 C402.189,82.19,404,86.476,404,91.428c0,4.953-1.811,9.238-5.428,12.857V104.287z"/>
 </svg>
 </a>
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="next" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M113.428,407.713l151.715-151.714L113.428,104.285c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857 l47.428-47.428c3.619-3.619,7.904-5.428,12.857-5.428s9.238,1.809,12.857,5.428l212,212c3.619,3.618,5.429,7.904,5.429,12.856 c0,4.953-1.81,9.238-5.429,12.857l-212,212c-3.619,3.618-7.904,5.428-12.857,5.428s-9.238-1.81-12.857-5.428l-47.428-47.429 c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857V407.713z"/>
 </svg>
 </a>
@@ -110,11 +110,11 @@ vortex_system_user_1:
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2016-09-21-at-00.43.06-1.png" alt="" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-17.31.36-1.png" alt="Rearrange about" />			
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-23-at-17.32.04-1.png" alt="Rearrange info" />			
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="previous" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M398.572,104.287L246.857,256.001l151.715,151.714c3.617,3.618,5.428,7.904,5.428,12.856c0,4.953-1.811,9.238-5.428,12.857 l-47.428,47.428c-3.619,3.619-7.904,5.428-12.857,5.428s-9.238-1.809-12.857-5.428l-212-212c-3.619-3.618-5.428-7.904-5.428-12.856 c0-4.953,1.81-9.238,5.428-12.857l212-212c3.619-3.618,7.904-5.428,12.857-5.428s9.238,1.81,12.857,5.428l47.428,47.429 C402.189,82.19,404,86.476,404,91.428c0,4.953-1.811,9.238-5.428,12.857V104.287z"/>
 </svg>
 </a>
-				<a href="#"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+				<a href="#" aria-label="next" aria-role="button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 <path d="M113.428,407.713l151.715-151.714L113.428,104.285c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857 l47.428-47.428c3.619-3.619,7.904-5.428,12.857-5.428s9.238,1.809,12.857,5.428l212,212c3.619,3.618,5.429,7.904,5.429,12.856 c0,4.953-1.81,9.238-5.429,12.857l-212,212c-3.619,3.618-7.904,5.428-12.857,5.428s-9.238-1.81-12.857-5.428l-47.428-47.429 c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857V407.713z"/>
 </svg>
 </a>
@@ -125,6 +125,6 @@ vortex_system_user_1:
 <p style="text-align: right;"><strong>[rating-system-posts]</strong></p>
 		<h3>Ready to Hire me?</h3>
 		<p><em>Get in touch and send me a message, or give me a call!</em></p>
-			<a href="http://www.gustdev.com/contact/" target="_self" role="button">
+			<a href="http://www.guhit.pro/contact/" target="_self" role="button">
 						Get in Touch
 					</a>
