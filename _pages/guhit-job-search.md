@@ -5,7 +5,7 @@ author: GuHIT
 post_date: 2017-02-13 16:52:48
 post_excerpt: ""
 layout: page
-permalink: http://www.guhit.pro/gustdev-job-search/
+permalink: http://www.guhit.pro/guhit-job-search/
 published: true
 vortex_system_likes:
   - "0"
