@@ -1,12 +1,11 @@
 ---
 ID: 653
-post_title: GustDev Job Search
-author: GustDev
+post_title: GuHIT Job Search
+author: GuHIT
 post_date: 2017-02-13 16:52:48
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gustdev.com/gustdev-job-search/
+permalink: http://www.guhit.pro/gustdev-job-search/
 published: true
 vortex_system_likes:
   - "0"
