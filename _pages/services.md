@@ -22,15 +22,15 @@ primer_layout:
 				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/ODniqOk-Imgur.jpg" alt="" itemprop="image"  />
 		<h3>Why your business need a Website?</h3>		
 			<p>Website act as a portal so customers can learn more about your company, as well as research product information and determine if they want to do business with you.  Small &amp; Medium business owners, need to realize that a website isn’t an expensive luxury. It’s an affordable, fundamental tool that every business needs.</p>
-		<h3><a href="http://www.gustdev.com/services/design-sample-gallery/" target="_self">How to start your digital business or website?</a></h3>		
+		<h3><a href="http://www.guhit.pro/services/design-sample-gallery/" target="_self">How to start your digital business or website?</a></h3>		
 			<p>The best way to start is contacting a Web Developer and explaining your business need and what do you have in mind. Research online for similar business and visit differents websites, this way you will have an idea what you need and want to your website. The web developer will show you the best options and work together with you to customize your business website.</p>
-<a href="http://www.gustdev.com/services/design-sample-gallery/" target="_self">Gallery</a>		 
-				<a href="http://www.gustdev.com/services/design-sample-gallery/" target="_self" itemprop="url">
-				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/services-2.jpg" alt="" itemprop="image"  />
+<a href="http://www.guhit.pro/services/design-sample-gallery/" target="_self">Gallery</a>		 
+				<a href="http://www.guhit.pro/services/design-sample-gallery/" target="_self" itemprop="url">
+				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/services-2-landscape.jpg" alt="" itemprop="image"  />
 				</a>
 		<h1>Need ideas for your Website Design?</h1>
 		<p>Check it out some great looking websites at our  Design Sample Gallery!</p>
-			<a href="http://www.gustdev.com/services/design-sample-gallery/" target="_self" role="button">
+			<a href="http://www.guhit.pro/services/design-sample-gallery/" target="_self" role="button">
 						Gallery
 					</a>
 			<img src="http://www.gustdev.com/wp-content/uploads/2017/01/web1-1024x768.jpg" alt="" />			
@@ -66,17 +66,17 @@ primer_layout:
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-				<a href="http://www.gustdev.com/contact/" target="_self" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/vXKyC7A-Imgur-e1486252093258-panorama.jpg" alt="" itemprop="image"  />
+				<a href="http://www.guhit.pro/contact/" target="_self" itemprop="url">
+				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/vXKyC7A-Imgur-1024x683-panorama.jpg" alt="" itemprop="image"  />
 				</a>
-	<h1><a href="http://www.gustdev.com/contact/" target="_self">Get your Website here!</a></h1>		
+	<h1><a href="http://www.guhit.pro/contact/" target="_self">Get your Website here!</a></h1>		
 			<p>Contact me and let's start to get your Website done!<strong> Wordpress Website starting at $500.00</strong> (plus the cost for Domain Name, Hosting, customized feature...)</p>
 <p>&nbsp;</p>
-			<a href="http://www.gustdev.com/contact/" target="_self" role="button">
+			<a href="http://www.guhit.pro/contact/" target="_self" role="button">
 						Contact Me
 					</a>
 		<h3>Don't forget to visit GuHIT Blog and Subscribe... </h3>
-		<p><em>Visit <a href="http://www.gustdev.com/blog/">GuHIT Blog</a> and <a href="http://gem.godaddy.com/signups/414828/join">Subscribe</a> to receive an email with great articles, news, and freebies...</em></p>
+		<p><em>Visit <a href="http://www.guhit.pro/blog/">GuHIT Blog</a> and <a href="http://gem.godaddy.com/signups/414828/join">Subscribe</a> to receive an email with great articles, news, and freebies...</em></p>
 			<a href="http://gem.godaddy.com/signups/414828/join" target="_self" role="button">
 						Click Here
 					</a>
