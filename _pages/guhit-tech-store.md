@@ -5,7 +5,7 @@ author: GuHIT
 post_date: 2017-02-09 11:23:48
 post_excerpt: ""
 layout: page
-permalink: http://www.guhit.pro/gustdev-tech-store/
+permalink: http://www.guhit.pro/guhit-tech-store/
 published: true
 primer_layout:
   - one-column-wide
