@@ -1,11 +1,11 @@
 ---
 ID: 2
 post_title: About
-author: GustDev
+author: GuHIT
 post_date: 2017-01-29 16:25:51
 post_excerpt: ""
 layout: page
-permalink: http://www.gustdev.com/about/
+permalink: http://www.guhit.pro/about/
 published: true
 wpnux_page:
   - about
