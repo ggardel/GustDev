@@ -19,13 +19,14 @@ vortex_system_dislikes:
 
 	<h2 style="text-align: center;"><em>    </em><em>GUSTAVO    FERREIRA</em></h2>
 <h2 style="text-align: center;"></h2>
-				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/Image-6-6-16-at-15.47-576x1024.jpg" alt="Gustavo Ferreira" itemprop="image"  />
+				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/Image-6-6-16-at-15.47-169x300.jpg" alt="Gustavo Ferreira" itemprop="image"  />
 				Gustavo Ferreira
 	<h6 style="text-align: left;"> <em>Hello,</em></h6>
-<p style="text-align: left;"><em> Thanks for visiting my Website and here it is a little bit about me!</em></p>
-<p style="text-align: left;"><em> I was born in Rio de Janeiro, Brazil. The beautiful city where I lived and worked as a Registered Nurse (BSN) until December of 2006 when I relocated to the United States.</em></p>
-	<p style="text-align: left;"><em>Here in the USA,  I have worked in the food business, healthcare and sales, I  lived in New Jersey, New York, and California.  I studied JavaScript, HTML, and CSS while I was working in healthcare at night. During the day I was doing some freelance websites for friends and small business. </em></p>
-<p style="text-align: left;"><em>Since I had the opportunity to improve my knowledge with  Back-End programming,  and learning more advanced languages and technologies during General Assembly Full Stack immersive Program I decided to dedicate myself full time to my passion for web development.</em></p>
+<p style="text-align: left;"><em style="font-size: 18px;"><em> Thanks for visiting my Website and here it is a little bit about me!</em></p>
+<p style="text-align: left;">
+	<p style="text-align: left;"><em style="font-size: 18px;">I was born in Rio de Janeiro, Brazil. The beautiful city where I lived and worked as a Registered Nurse (BSN) responsible for 20-bed critical care unit, with hemodynamically unstable patients highly dependent of monitoring and specialized care, until December of 2006 when I relocated to the United States.</em></p>
+	<p style="text-align: left;"><em style="font-size: 18px;"><em>Here in the USA,  I have worked in the food business, healthcare and sales, I  lived in New Jersey, New York, and California.  I studied JavaScript, HTML, and CSS while I was working in healthcare at night. During the day I was doing some freelance websites for friends and small business. </em></p>
+<p style="text-align: left;"><em style="font-size: 18px;"><em>Since I had the opportunity to improve my knowledge with  Back-End programming,  and learning more advanced languages and technologies during General Assembly Full Stack immersive Program I decided to dedicate myself full time to my passion for web development.</em></p>
 <hr />
 <p style="text-align: left;">
 				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/j7C04Au-Imgur.jpg" alt="Rio de Janeiro, Brazil" itemprop="image"  />
@@ -39,22 +40,27 @@ vortex_system_dislikes:
 <h3 style="text-align: center;">JavaScript, Ruby, HTML5, CSS3, PHP;</h3>
 <p>&nbsp;</p>
 <h3 style="text-align: center;"><em>Front-End-Libraries:</em></h3>
-<h3 style="text-align: center;">JQuery, Bootstrap, Materialize;</h3>
+<h3 style="text-align: center;">JQuery, Bootstrap, Foundation, Materialize;</h3>
 <p>&nbsp;</p>
 <h3 style="text-align: center;"><em>Front-End-Framework:</em></h3>
 <h3 style="text-align: center;">Angular.js, React;</h3>
 <p>&nbsp;</p>
 <h3 style="text-align: center;"><em>Web-Application-Framework:</em></h3>
 <h3 style="text-align: center;">Node.js + Express, Rails;</h3>
-	<h2 style="text-align: center;"></h2>
-<h3 style="text-align: center;"><em>Databases:</em></h3>
-<h3 style="text-align: center;">PostgreSQL, MongoDB;</h3>
 <p>&nbsp;</p>
 <h3 style="text-align: center;"><em>Version Control:</em></h3>
 <h3 style="text-align: center;">Git, GitHub;</h3>
+	<h2 style="text-align: center;"></h2>
+<h3 style="text-align: center;"><em>Databases:</em></h3>
+<h3 style="text-align: center;">PostgreSQL, MongoDB, MySQL;</h3>
 <p>&nbsp;</p>
+<h3 style="text-align: center;"></h3>
+<h3 style="text-align: center;"><em>Microsoft:</em></h3>
+<h3 style="text-align: center;">MS Visio, MS Project, MS Excel, MS Word, MS Office +, Windows;</h3>
+<p>&nbsp;</p>
+<h3 style="text-align: center;"></h3>
 <h3 style="text-align: center;"><em>Others:</em></h3>
-<h3 style="text-align: center;">WordPress,  Linux,  Windowns, Trello, Agile, Ionic, Adobe Photoshop, Heroku;</h3>
+<h3 style="text-align: center;">WordPress, E-commerce, Mac,  Linux, Trello, Agile, Ionic, Adobe Photoshop, Heroku, QuickBooks, Zoho, Salesforce-CRM and Digital Marketing;</h3>
 	<hr />
 <h3 style="text-align: center;"><em>Portuguese:</em></h3>
 <h4 style="text-align: center;">native language</h4>
@@ -68,7 +74,23 @@ vortex_system_dislikes:
 <h2 style="text-align: center;"> </h2>
 				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/USD-logo.jpg" alt="" itemprop="image"  />
 	<h3>Master of Science in Health Care Informatics</h3>		
-			<h6 style="text-align: center;">In Progress - 2017</h6>
+			<h6 style="text-align: center;">In Progress - 2017-2018</h6>
+<p><strong>Hahn School of Nursing and Health Science</strong></p>
+<ul>
+<li style="text-align: left;"><em>Design and management of databases</em></li>
+<li style="text-align: left;"><em>Application of information systems to solve clinical problems</em></li>
+<li style="text-align: left;">Work flow<em> design</em></li>
+<li style="text-align: left;"><em>Design for integration of human/technology systems</em></li>
+<li style="text-align: left;"><em>Advanced leadership skills in project/technology team management</em></li>
+<li style="text-align: left;"><em>Organizational leadership in data and technology management</em></li>
+<li style="text-align: left;"><em>Leadership</em></li>
+<li style="text-align: left;"><em>Conflict resolution</em></li>
+<li style="text-align: left;"><em>Finance management</em></li>
+<li style="text-align: left;"><em>Data management</em></li>
+<li style="text-align: left;"><em>Strategic planning</em></li>
+<li style="text-align: left;"><em>Policy development</em></li>
+<li style="text-align: left;"><em>Professional and ethical responsibility</em></li>
+</ul>
 <p><strong>COURSE DESCRIPTIONS</strong></p>
 <p><strong>HCIN 540 Introduction to Health Care Information Management </strong></p>
 <p>Provides students with necessary skills to understand the basis for health care informatics. Emphasizes basic understanding of computer hardware, network architecture, clinical application of electronic health records, and health care software applications. Includes relevant regulatory, patient privacy, security, and reimbursement issues. Examines current trends in meaningful use and electronic health record (EHR) certification as a foundation for understanding emerging issues in health care informatics.</p>
