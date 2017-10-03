@@ -53,9 +53,8 @@ vortex_system_dislikes:
 			<p>Do you need a Website? Front End, Full Stack, WordPress...</p>
 <a href="http://www.guhit.pro/services/" target="_self">Click Here</a>		 
 				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/z3ownetsdnq-avi-richards-1.jpg" alt="z3ownetsdnq-avi-richards" itemprop="image"  />
-	<h3 style="text-align: center;"> WEB DEVELOPER</h3>
-<p style="text-align: left;">I am a Web Developer graduated from General Assembly - Downtown Los Angeles with diversified professional experience and enormous desire to learn, improve and problem-solving. Connecting my skills acquired from my background as Registered Nurse (B.S.N.) such as critical thinking, team player and decision making to my skills in technology.</p>
-<p style="text-align: left;">Not afraid of challenges, always very responsible and committed to my duties. My passion for the challenge of coding really motivates me. As a Full Stack Web Developer, I am always looking for new technology to apply in my projects contributing to the success of the company.</p>
+	<h2 style="text-align: center;">WEB DEVELOPER &amp; NURSE (BSN)</h2>
+<p style="text-align: left;">            I am currently enrolled in the Master's Degree Program in Health Care Informatics from the University of San Diego in order to pursue a rewarding career, through the use of information technology to improve the quality and safety of patient care. As a Web and Database Developer graduated from General Assembly with diversified professional experience and my skills acquired from my background as a Registered Nurse (B.S.N.), I am excited about the opportunity of combining my knowledge and clinical experience to my skills in technology.</p>
 	<blockquote><p>&nbsp;</p>
 <p>&nbsp;</p>
 <h6 style="padding-left: 30px; text-align: center;">"Designing your website navigation is like laying the foundation for your house. Failure to plan your foundation properly could put your building at risk of collapse, regardless of how nice it looks."</h6>
