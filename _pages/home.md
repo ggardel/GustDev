@@ -43,7 +43,7 @@ post_date: 2017-01-29 16:25:51
 <h3><a href="http://www.guhit.pro/services/" target="_self">Freelance</a></h3>		
 			<p>Do you need a Website? Front End, Full Stack, WordPress...</p>
 <a href="http://www.guhit.pro/services/" target="_self">Click Here</a>		 
-				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/z3ownetsdnq-avi-richards-1.jpg" alt="z3ownetsdnq-avi-richards" itemprop="image"  />
+	<iframe width="480" height="270" src="https://www.youtube.com/embed/eTGxGS-mRZM?autoplay=1&loop=1&playlist=eTGxGS-mRZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	<h2 style="text-align: center;">Health IT, WEB DEVELOPER &amp; NURSE (BSN)</h2>
 <p style="text-align: left;">
 <p> I am currently enrolled in the Master's Degree Program in Health Care Informatics from the University of San Diego. I am a Health Informatics Resident in the Data Services Department of Rady Children’s Hospital to gain experience upon my Database and Web Developer skills. My goal upon graduation is to pursue a career in HIT where I can apply my technical and clinical experience to improve the quality and safety of patient care through an information systems role.</p>
