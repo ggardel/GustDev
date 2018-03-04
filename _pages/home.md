@@ -51,11 +51,11 @@ post_date: 2017-01-29 16:25:51
 <p>&nbsp;</p>
 <h6 style="padding-left: 30px; text-align: center;">"Designing your website navigation is like laying the foundation for your house. Failure to plan your foundation properly could put your building at risk of collapse, regardless of how nice it looks."</h6>
 </blockquote>
-		<h2><a href="http://www.guhit.pro/guhit-tech-store/" target="_self">Visit GuHITech Store</a></h2>		
-			<p>All Equipment, accessories, and books to improve your Web Developer career and skills. </p>
+		<h2><a href="http://www.guhit.pro/services/" target="_self">Visit GuHIT Services</a></h2>		
+			<p>Do you need a new WebSite? </p>
 <p>&nbsp;</p>
-<a href="http://www.guhit.pro/guhit-tech-store/" target="_self">Click Here</a>		 
-				<a href="http://www.guhit.pro/guhit-tech-store/" target="_self" itemprop="url">
+<a href="http://www.guhit.pro/services/" target="_self">Click Here</a>		 
+				<a href="http://www.guhit.pro/services/" target="_self" itemprop="url">
 				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/uI4gyYi-Imgur-landscape.jpg" alt="uI4gyYi - Imgur" itemprop="image" height="470" width="650"  />
 				</a>
 		<h2><a href="http://www.guhit.pro/portfolio/" target="_self">Portfolio</a></h2>		
