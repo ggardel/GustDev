@@ -2,19 +2,11 @@
 ID: 156
 post_title: Home
 author: GuHIT
-post_date: 2017-01-29 16:25:51
 post_excerpt: ""
 layout: page
 permalink: http://www.guhit.pro/
 published: true
-wpnux_page:
-  - home
-primer_layout:
-  - one-column-wide
-vortex_system_likes:
-  - "0"
-vortex_system_dislikes:
-  - "0"
+post_date: 2017-01-29 16:25:51
 ---
 
 						<a href="https://github.com/ggardel" target="_blank" aria-label="link to https://github.com/ggardel">
@@ -36,20 +28,20 @@ vortex_system_dislikes:
 				<a href="http://www.guhit.pro/portfolio/" target="_self" itemprop="url">
 				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/hpjsku2uysu-carlos-muza-300x214.jpg" alt="" itemprop="image"  />
 				</a>
-	<h3><a href="http://www.guhit.pro/portfolio/" target="_self">Projects</a></h3>		
+<h3><a href="http://www.guhit.pro/portfolio/" target="_self">Projects</a></h3>		
 			<p>All my projects with image, details and link to visit.</p>
 <a href="http://www.guhit.pro/portfolio/" target="_self">Click Here</a>		 
-				<a href="https://drive.google.com/open?id=0B8BGZxI5RTzIN25ZQXlWMWRlbms" target="_blank" itemprop="url">
+				<a href="https://drive.google.com/open?id=12Ym5YQagK6UnnKDc4H_oMhr1j2zV3Ueq" target="_blank" itemprop="url">
 				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/I9PAUwu-Imgur-300x200-landscape.png" alt="" itemprop="image"  />
 				</a>
-	<h3><a href="https://drive.google.com/open?id=0B8BGZxI5RTzIN25ZQXlWMWRlbms" target="_blank">Resume</a></h3>		
+<h3><a href="https://drive.google.com/open?id=12Ym5YQagK6UnnKDc4H_oMhr1j2zV3Ueq" target="_blank">Resume</a></h3>		
 			<p>For my Web Developer Resume</p>
 <p>(<em>HIT Resume click</em> <a href="https://drive.google.com/file/d/0B8BGZxI5RTzIYXpCamU1RzNTZ0k/view?usp=sharing">Here</a>)</p>
-<a href="https://drive.google.com/open?id=0B8BGZxI5RTzIN25ZQXlWMWRlbms" target="_blank">Click Here</a>		 
+<a href="https://drive.google.com/open?id=12Ym5YQagK6UnnKDc4H_oMhr1j2zV3Ueq" target="_blank">Click Here</a>		 
 				<a href="http://www.guhit.pro/services/" target="_self" itemprop="url">
 				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/op2eq5g-zkw-william-iven-300x199.jpg" alt="" itemprop="image"  />
 				</a>
-	<h3><a href="http://www.guhit.pro/services/" target="_self">Freelance</a></h3>		
+<h3><a href="http://www.guhit.pro/services/" target="_self">Freelance</a></h3>		
 			<p>Do you need a Website? Front End, Full Stack, WordPress...</p>
 <a href="http://www.guhit.pro/services/" target="_self">Click Here</a>		 
 				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/z3ownetsdnq-avi-richards-1.jpg" alt="z3ownetsdnq-avi-richards" itemprop="image"  />
