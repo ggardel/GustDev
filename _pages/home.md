@@ -9,44 +9,44 @@ published: true
 post_date: 2017-01-29 16:25:51
 ---
 
-						<a href="https://github.com/ggardel" target="_blank" aria-label="link to https://github.com/ggardel">
+						<a href="https://github.com/ggardel" target="_blank" aria-label="link to https://github.com/ggardel" rel="noopener">
 		</a>	
 	<h3><a href="https://github.com/ggardel" target="_blank">GitHub</a></h3>		
 			<p>Here you can find the coding and gist with comments of all my projects.</p>
 <a href="https://github.com/ggardel" target="_blank">Visit </a>		 
-						<a href="http://codepen.io/Ggardel/" target="_blank" aria-label="link to http://codepen.io/Ggardel/">
+						<a href="http://codepen.io/Ggardel/" target="_blank" aria-label="link to http://codepen.io/Ggardel/" rel="noopener">
 		</a>	
 	<h3><a href="http://codepen.io/Ggardel/" target="_blank">CodePen</a></h3>		
 			<p>More coding, here you will find nice pens with JavaScript, JQuery, CSS, and HTML.</p>
 <a href="http://codepen.io/Ggardel/" target="_blank">Visit</a>		 
-						<a href="https://www.linkedin.com/in/gustavogardel" target="_blank" aria-label="link to https://www.linkedin.com/in/gustavogardel">
+						<a href="https://www.linkedin.com/in/gustavogardel" target="_blank" aria-label="link to https://www.linkedin.com/in/gustavogardel" rel="noopener">
 		</a>	
 	<h3><a href="https://www.linkedin.com/in/gustavogardel" target="_blank">LinkedIn</a></h3>		
 			<p>Professional Experience and Networking.</p>
 <p>&nbsp;</p>
 <a href="https://www.linkedin.com/in/gustavogardel" target="_blank">Visit</a>		 
 				<a href="http://www.guhit.pro/portfolio/" target="_self" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/hpjsku2uysu-carlos-muza-300x214.jpg" alt="" itemprop="image"  />
+				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/hpjsku2uysu-carlos-muza-300x214.jpg" alt="hpjsku2uysu-carlos-muza" itemprop="image" height="214" width="300"  />
 				</a>
 <h3><a href="http://www.guhit.pro/portfolio/" target="_self">Projects</a></h3>		
 			<p>All my projects with image, details and link to visit.</p>
 <a href="http://www.guhit.pro/portfolio/" target="_self">Click Here</a>		 
-				<a href="https://drive.google.com/open?id=12Ym5YQagK6UnnKDc4H_oMhr1j2zV3Ueq" target="_blank" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/I9PAUwu-Imgur-300x200-landscape.png" alt="" itemprop="image"  />
+				<a href="https://drive.google.com/open?id=12Ym5YQagK6UnnKDc4H_oMhr1j2zV3Ueq" target="_blank" rel="noopener" itemprop="url">
+				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/I9PAUwu-Imgur-300x200-landscape.png" alt="I9PAUwu - Imgur" itemprop="image" height="200" width="300"  />
 				</a>
 <h3><a href="https://drive.google.com/open?id=12Ym5YQagK6UnnKDc4H_oMhr1j2zV3Ueq" target="_blank">Resume</a></h3>		
-			<p>For my Web Developer Resume</p>
-<p>(<em>HIT Resume click</em> <a href="https://drive.google.com/file/d/0B8BGZxI5RTzIYXpCamU1RzNTZ0k/view?usp=sharing">Here</a>)</p>
+			<p>For my professional experience, check my updated Resume</p>
 <a href="https://drive.google.com/open?id=12Ym5YQagK6UnnKDc4H_oMhr1j2zV3Ueq" target="_blank">Click Here</a>		 
 				<a href="http://www.guhit.pro/services/" target="_self" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/op2eq5g-zkw-william-iven-300x199.jpg" alt="" itemprop="image"  />
+				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/op2eq5g-zkw-william-iven-300x199.jpg" alt="op2eq5g-zkw-william-iven" itemprop="image" height="199" width="300"  />
 				</a>
 <h3><a href="http://www.guhit.pro/services/" target="_self">Freelance</a></h3>		
 			<p>Do you need a Website? Front End, Full Stack, WordPress...</p>
 <a href="http://www.guhit.pro/services/" target="_self">Click Here</a>		 
 				<img src="http://www.gustdev.com/wp-content/uploads/2017/01/z3ownetsdnq-avi-richards-1.jpg" alt="z3ownetsdnq-avi-richards" itemprop="image"  />
-	<h2 style="text-align: center;">WEB DEVELOPER &amp; NURSE (BSN)</h2>
-<p style="text-align: left;">            I am currently enrolled in the Master's Degree Program in Health Care Informatics from the University of San Diego in order to pursue a rewarding career, through the use of information technology to improve the quality and safety of patient care. As a Web and Database Developer graduated from General Assembly with diversified professional experience and my skills acquired from my background as a Registered Nurse (B.S.N.), I am excited about the opportunity of combining my knowledge and clinical experience to my skills in technology.</p>
+	<h2 style="text-align: center;">Health IT, WEB DEVELOPER &amp; NURSE (BSN)</h2>
+<p style="text-align: left;">
+<p> I am currently enrolled in the Master's Degree Program in Health Care Informatics from the University of San Diego. I am a Health Informatics Resident in the Data Services Department of Rady Children’s Hospital to gain experience upon my Database and Web Developer skills. My goal upon graduation is to pursue a career in HIT where I can apply my technical and clinical experience to improve the quality and safety of patient care through an information systems role.</p>
 	<blockquote><p>&nbsp;</p>
 <p>&nbsp;</p>
 <h6 style="padding-left: 30px; text-align: center;">"Designing your website navigation is like laying the foundation for your house. Failure to plan your foundation properly could put your building at risk of collapse, regardless of how nice it looks."</h6>
@@ -56,7 +56,7 @@ post_date: 2017-01-29 16:25:51
 <p>&nbsp;</p>
 <a href="http://www.guhit.pro/guhit-tech-store/" target="_self">Click Here</a>		 
 				<a href="http://www.guhit.pro/guhit-tech-store/" target="_self" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/uI4gyYi-Imgur-landscape.jpg" alt="" itemprop="image"  />
+				<img src="http://www.guhit.pro/wp-content/uploads/bb-plugin/cache/uI4gyYi-Imgur-landscape.jpg" alt="uI4gyYi - Imgur" itemprop="image" height="470" width="650"  />
 				</a>
 		<h2><a href="http://www.guhit.pro/portfolio/" target="_self">Portfolio</a></h2>		
 			<img src="http://www.guhit.pro/wp-content/uploads/2017/01/Screen-Shot-2016-09-30-at-14.53.26-1024x640.png" alt="My first Portfolio" />			
@@ -78,7 +78,7 @@ post_date: 2017-01-29 16:25:51
 						Subscribe
 					</a>
 				<a href="http://gem.godaddy.com/signups/414828/join" target="_self" itemprop="url">
-				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/portfolio_quarto1-1024x768.jpeg" alt="" itemprop="image"  />
+				<img src="http://www.guhit.pro/wp-content/uploads/2017/01/portfolio_quarto1-1024x768.jpeg" alt="Processed with VSCOcam with f2 preset" itemprop="image" height="516" width="688"  />
 				</a>
 		<h2>More about me...</h2>
 		<p><em>Would you like to know more about me,  my skills and education so you need to check this out!</em></p>
